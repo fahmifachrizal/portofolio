@@ -35,7 +35,7 @@ body {
   --blue: rgb(98, 0, 234);
   
   --c1: rgb(38, 70, 83);
-  --c2: rgb(42, 157, 143);
+  --c2: #2a9d90;
   
   --left-color: var(--c1);
   --right-color: var(--c2);
@@ -128,14 +128,8 @@ body {
 }
 
 .side .title {
-  font-family: "Rubik", sans-serif;
   margin: 0px 10vw;
   width: 80vw;
-}
-
-.side .fancy {
-  font-family: "Lobster", cursive;
-  line-height: 0.8em;
 }
 
 #left-side {

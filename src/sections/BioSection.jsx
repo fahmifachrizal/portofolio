@@ -1,4 +1,5 @@
 import * as Tabler from 'react-icons/tb';
+import profilePicture from '../assets/images/profilepicture.jpg'
 
 
 const BioSection = function() {
@@ -31,6 +32,7 @@ const BioSection = function() {
       <div className="flex flex-row gap-x-8 w-full">
         <div className="w-36 h-36">
           <div className="h-full w-full rounded-full bg-gradient-to-br from-green-400 to-blue-400 p-1">
+            <img src={profilePicture} alt="profile" className='rounded-full'/>
           </div>
         </div>
         <div className="py-2 flex-1">

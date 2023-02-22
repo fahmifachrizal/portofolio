@@ -7,7 +7,7 @@ const BlogSection = function() {
   return (
     <Element id='blogs' name='blogs'>
       <div className="my-20 w-full px-56">
-        <h1 className='text-white text-4xl font-bold'>Blog</h1>
+        <h1 className='text-white text-4xl font-bold mb-10'>Blog</h1>
         <div className='w-full flex flex-wrap gap-10'>
           { blogs.map((blog, index) => {
               return (

@@ -19,7 +19,7 @@ const Navbar = function() {
           <ScrollLink to='blogs' spy smooth duration={500} className='text-white text-xl font-raleway cursor-pointer'>
             Blog
           </ScrollLink>
-          <ScrollLink to='home' spy smooth duration={500} className='text-white text-xl font-raleway cursor-pointer'>
+          <ScrollLink to='contact' spy smooth duration={500} className='text-white text-xl font-raleway cursor-pointer'>
             Contact
           </ScrollLink>
         </div>

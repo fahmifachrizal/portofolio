@@ -39,13 +39,13 @@ const HeroSection = function() {
         <div id="left-side" className="side text-8xl h-full place-items-center">
           <h2 className="title w-full justify-center">
             I'm a 
-            <span className="fancy"> Full Stack Developer</span>      
+            <span className="fancy font-raleway"> Full Stack Developer</span>      
           </h2>
         </div>
         <div id="right-side" className="side text-8xl h-full">
           <h2 className="title">
             With Background in  
-            <span className="fancy"> Data Analyst</span>     
+            <span className="fancy font-raleway"> Data Analyst</span>     
           </h2>
         </div>
       </div>
